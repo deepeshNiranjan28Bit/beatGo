@@ -121,6 +121,9 @@ p{
   transform: rotate(0);
 }
   p{
+    font-size:1.8rem;
+  }
+  .navbar{
     font-size:1.5rem;
   }
 }
