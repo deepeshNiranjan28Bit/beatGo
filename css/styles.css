@@ -120,4 +120,7 @@ p{
   position: static;
   transform: rotate(0);
 }
+  p{
+    font-size:1.5rem;
+  }
 }
